@@ -81,6 +81,7 @@ img {
         border: 1px solid white;
         border-radius: 37px;
         box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.35);
+        outline: none;
     }
 
     footer {
